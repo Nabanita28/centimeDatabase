@@ -8,7 +8,6 @@
 2. Go to project directory and import project or pom.xm in IDE as maven project
 4. Make build(clean install)
 5. Run spring boot app
-7. Open http://localhost in browser 
 
 ## using maven
  1.mvn clean install
